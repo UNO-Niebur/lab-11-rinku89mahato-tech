@@ -1,7 +1,7 @@
 # StopLightSim.py
 # Name: Rinku Mahato
 # Date:04/17/2026
-# Assignment:Lab 11
+# Assignment:Lab 11_Simulation_Testing
 
 import simpy
 
